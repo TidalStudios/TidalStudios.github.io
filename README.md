@@ -1,2 +1,3 @@
-# TidalStudios.github.io
-We have a website now.
+# Tidal Studios Website
+
+Website for Tidal Studios Game Development. Code is licensed under Apache License v2.0.
